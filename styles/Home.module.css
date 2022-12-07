@@ -15,6 +15,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: black;
+  font-weight: bold;
 }
 
 .footer {
@@ -48,7 +50,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
-  color: aqua;
+  color: black;
 }
 
 .title,
