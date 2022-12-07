@@ -1,9 +1,10 @@
 .container {
   padding: 0 2rem;
+  background-color: white;
 }
 
 .homeTitle {
-  color: red;
+  color: black;
 }
 
 .main {

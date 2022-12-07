@@ -5,15 +5,18 @@ export default function Navbar() {
     <div className={styles.navbar}>
       <div className={styles.links}>
         <Link href="/">
-          Home
+          <a>양유나</a>
         </Link>
         <Link href="/about">
-          About
+          <a>자기소개</a>
         </Link>
         <Link href="/profile">
-          Profile
+          <a>취미</a>
+        </Link>
+        <Link href="/contact">
+          <a>좋아하는 것들</a>
         </Link>
       </div>
     </div>
-  );
+  )
 }
