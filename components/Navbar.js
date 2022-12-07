@@ -5,15 +5,15 @@ export default function Navbar() {
     <div className={styles.navbar}>
       <div className={styles.links}>
         <Link href="/">
-          <a>Home</a>
+          Home
         </Link>
         <Link href="/about">
-          <a>About</a>
+          About
         </Link>
         <Link href="/profile">
-          <a>Profile</a>
+          Profile
         </Link>
       </div>
     </div>
-  )
+  );
 }
