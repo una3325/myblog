@@ -19,6 +19,9 @@ export default function About() {
         <p>
           <a href="https://bookweb.vercel.app/">팀 프로젝트</a>
         </p>
+        <p>
+          <a href="https://client-wheat-alpha.vercel.app/">mern</a>
+        </p>
       </main>
     </div>
   )

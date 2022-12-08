@@ -1,15 +1,17 @@
 import React from 'react'
-import styles from '../styles/Home.module.css'
 import Image from 'next/image'
+import styles from '../styles/Home.module.css'
 
-export default function Contact() {
+export default function contact() {
   return (
-    <div>
-      <h1>내가 좋아하는 것들~</h1>
-
-      <p>안녕하세요. 반갑습니당</p>
-      <p>제가 좋아하는 것들ㅇ니데용</p>
-      <p>아이스크림을 좋아해요 </p>
+    <div className={styles.container}>
+      <main className={styles.main}>
+        <h1>으개갹</h1>
+        <Image src="/Images/444.gif" width={400} height={300}></Image>
+        <Image src="/Images/333.png" width={400} height={300}></Image>
+        <p>호빵 먹고싶당</p>
+        <p>뭐 쓰징..</p>
+      </main>
     </div>
   )
 }
