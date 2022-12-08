@@ -1,10 +1,10 @@
 .container {
   padding: 0 2rem;
-  background-color: pink;
+  background-color: white;
 }
 
 .homeTitle {
-  color: white;
+  color: black;
 }
 
 .main {
@@ -15,7 +15,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: white;
+  color: black;
   font-weight: bold;
 }
 
