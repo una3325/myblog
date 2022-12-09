@@ -4,9 +4,17 @@
 }
 
 .homeTitle {
+  padding: 0 2rem;
   color: black;
+  text-align: center;
+  font-size: 40px;
+  line-height: 1px;
 }
 
+.Image {
+  left: 30;
+  line-height: 50px;
+}
 .main {
   min-height: 100vh;
   padding: 4rem 0;
