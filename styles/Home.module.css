@@ -3,11 +3,20 @@
   background-color: white;
 }
 
+.text {
+  padding: 0 2rem;
+  text-align: center;
+}
+
+.ttt {
+  text-decoration: underline;
+}
+
 .homeTitle {
   padding: 0 2rem;
   color: black;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 1px;
 }
 
@@ -25,6 +34,7 @@
   align-items: center;
   color: black;
   font-weight: bold;
+  line-height: 20px;
 }
 
 .footer {
